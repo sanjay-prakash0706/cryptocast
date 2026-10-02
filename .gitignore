@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.log
+.DS_Store
+
+# Cloudflare installer files
+cloudflared-linux-amd64.deb
+cloudflared-linux-amd64.deb.*

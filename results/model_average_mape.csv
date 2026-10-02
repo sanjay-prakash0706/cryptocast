@@ -1,0 +1,5 @@
+Model,Average_MAPE
+1D-CNN,14.65
+LSTM,7.97
+RNN,8.56
+Transformer,10.57
